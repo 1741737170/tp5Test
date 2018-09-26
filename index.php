@@ -1,2 +1,3 @@
 <?php
-phpinfo();
+$str = 123;
+echo 123;
